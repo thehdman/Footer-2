@@ -14,7 +14,7 @@ footer {
     font-family: 'Varta', sans-serif;
 }
 
-.car-footer-top {
+.footer-top {
     width: 100%;
     height: 350px;
     background-color: #023246;
@@ -50,7 +50,7 @@ span {
     content: "\00B7";
 }
 
-.gym-address {
+.footer-address {
     position: relative;
     top: 140px;
     text-align: center;
@@ -83,26 +83,26 @@ span {
     padding-right: 20px;
 }
 
-.coffee-logo-class {
+.footer-logo {
     position: relative;
     top: 150px;
     display: flex;
     justify-content: center;
 }
 
-.coffee-heading {
+.logo-heading {
     color: #ffffff;
     font-family: 'Leckerli One', cursive;
     font-size: 35px;
     text-decoration: none;
 }
 
-.coffee-heading:hover {
+.logo-heading:hover {
     color: #FFC107;
     font-size: 36px;
 }
 
-.car-footer-bottom {
+.footer-bottom {
     position: relative;
     top: 1px;
     height: 50px;
@@ -110,7 +110,7 @@ span {
     display: flex;
 }
 
-.coffee-copyright {
+.footer-copyright {
     width: 100%;
     display: flex;
     justify-content: space-between;
